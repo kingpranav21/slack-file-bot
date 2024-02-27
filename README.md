@@ -23,13 +23,6 @@ This Slack bot is designed to enhance team communication and productivity by pro
 3. Obtain the API token and other credentials required for the bot.
 4. Update the configuration file with your credentials.
 
-## Usage
-1. Start the bot by running the command:
-    ```bash
-    npm start
-    ```
-2. Invite the bot to your desired channels or configure it to listen to specific triggers.
-3. Interact with the bot using predefined commands or triggers.
 
 ## Contributing
 Contributions are welcome! If you have any ideas for new features or improvements, please open an issue or submit a pull request.
